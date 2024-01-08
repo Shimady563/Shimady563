@@ -3,9 +3,8 @@
 
 - I’m currently working on [Coffee shop app](https://github.com/Shimady563/coffee-shop-app)
 
-- I’m currently learning **Spring, spring boot, hibernate**
+- I’m currently learning **Spring, Spring boot, Hibernate**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
