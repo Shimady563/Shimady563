@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Maksim</h1>
-<h3 align="center">A backend developer</h3>
+<h1 align="left">Hi, I'm Maksim</h1>
+<h3 align="left">A backend developer</h3>
 
 - I’m currently working on [Coffee shop app](https://github.com/Shimady563/coffee-shop-app)
 
