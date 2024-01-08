@@ -13,7 +13,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimady563&show_icons=true&locale=en&layout=compact&theme=dark" alt="shimady563" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shimady563&theme=dark" alt="shimady563" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shimady563&theme=github-dark&hide_border=true&border_radius=5&card_width=340)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shimady563&show_icons=true&locale=en&theme=dark" alt="shimady563" /></p>
 
