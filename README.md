@@ -5,4 +5,4 @@
 ---
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimady563&layout=donut&theme=github_dark&hide_border=true&border_radius=5&card_width=340)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shimady563&theme=github-dark&hide_border=true&border_radius=5&card_width=400)](https://git.io/streak-stats)
+
